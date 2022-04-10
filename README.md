@@ -13,3 +13,5 @@ document.addEventListener("keydown", function(e) {
   }
 });
 ```
+
+Code is commented in the [file](https://github.com/kxmil/fullscreen.js/blob/main/fullscreen.js)
